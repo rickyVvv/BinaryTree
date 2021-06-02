@@ -5,10 +5,7 @@ import java.util.Scanner;
 import java.lang.*;
 import java.lang.Math;
 
-//Proj 3
-//Created by: Ritesh Virlley 
-//Created on 3/29/21
-//RXV200008
+
 public class Main {
     public static int x = 0;
     public static void main(String[] args) throws FileNotFoundException {
